@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **HTML AND CSS**
+- 🔭 I’m currently working on **JAVA FULL STACK**
 
-- 🌱 I’m currently learning **java language,c language**
+- 🌱 I’m currently learning **JAVA FULL STACK**
 
 - 🤝 I’m looking for help with **javascript**
 
-- 💬 Ask me about **HTML CSS**
+- 💬 Ask me about **HTML CSS JAVA MySQL PYTHON **
 
 - 📫 How to reach me **meltonmarvel673@gmail.com**
 
